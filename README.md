@@ -18,6 +18,9 @@ This project aims to perform voice cloning and translation tasks using Python. I
 
 6.***Voice Cloning***: Custom voice cloning is performed using the Tortoise library. It generates speech in multiple languages with the voice of the user's choice.
 
+#### Note:
+You should keep all the voice_segment files in Voice_Clone with ***tortoise-tts.ipynb*** where ***voice_segments*** are act as a dataset and u get the voice segment by executing the ***main.py***
+
 ## Project Structure
 The project is structured as follows:
 
