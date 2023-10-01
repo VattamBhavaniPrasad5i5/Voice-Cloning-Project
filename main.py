@@ -118,7 +118,7 @@ keyword = "SharuKhan Tedx"
 videos_dir = "videos_dir"
 output_file = "new_output_VK.mp4"
 num_clips = 1
-api_key = "AIzaSyAFklWjHdzEXc6YQGj1RJImHsUN3z297T8"
+api_key = "YOUR_YOUTUBE_API_KEY"
 video_links = search_youtube_videos(api_key, keyword, num_clips)
 
 print(len(video_links))
