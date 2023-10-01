@@ -48,3 +48,6 @@ The project is structured as follows:
 - Googletrans Library
 - MoviePy Library
 - NumPy Library
+![Screenshot (115)](https://github.com/VattamBhavaniPrasad5i5/Voice-Cloning-Project/assets/97446586/26c00841-8c64-4174-8ded-53a957121510)
+
+
