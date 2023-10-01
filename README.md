@@ -2,7 +2,9 @@
 ## Introduction
 This project aims to perform voice cloning and translation tasks using Python. It utilizes various libraries and techniques to achieve the following objectives:
 
+
 ***Here my input is string (example: sharukhan tedx, samanatha tedx)***
+
 
 1.***YouTube Video Extraction***: The project starts by searching for YouTube videos related to a specific keyword using the YouTube Data API. It extracts video links for further processing.
 
@@ -48,6 +50,8 @@ The project is structured as follows:
 - Googletrans Library
 - MoviePy Library
 - NumPy Library
+
+
 ![Screenshot (115)](https://github.com/VattamBhavaniPrasad5i5/Voice-Cloning-Project/assets/97446586/26c00841-8c64-4174-8ded-53a957121510)
 
 
